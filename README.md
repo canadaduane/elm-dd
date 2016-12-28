@@ -1,4 +1,6 @@
-# Elm project
+# Elm DropDown Test
+
+This is a response to [Chris Van Vranken's question](https://groups.google.com/forum/#!topic/elm-discuss/j8my5VASG6A) on Elm-Discuss.
 
 ## Getting started
 
